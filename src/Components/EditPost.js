@@ -2,6 +2,8 @@ import React from "react"
 import { useParams, Link } from "react-router-dom"
 import { useEffect } from "react"
 
+// editpost function
+
 const EditPost = ({
   posts,
   handleEdit,
