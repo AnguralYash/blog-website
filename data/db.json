@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first Post",
+      "datetime": " July 02, 2023 11 : 00 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae aliquam ducimus modi adipisci itaque et iure deserunt, consectetur dolores. Consequuntur quasi ipsam quis reiciendis architecto veniam minima velit amet inventore?"
+    },
+    {
+      "id": 2,
+      "title": "My updated post",
+      "datetime": "July 30, 2023 12:16:54 AM",
+      "body": "hi there"
+    },
+    {
+      "id": 3,
+      "title": "My third Post",
+      "datetime": " July 10, 2023 10 : 00 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae aliquam ducimus modi adipisci itaque et iure deserunt, consectetur dolores. Consequuntur quasi ipsam quis reiciendis architecto veniam minima velit amet inventore?"
+    },
+    {
+      "id": 4,
+      "title": "another post",
+      "datetime": "July 30, 2023 12:16:40 AM",
+      "body": "yash paul"
+    },
+    {
+      "id": 5,
+      "title": "my new post ",
+      "datetime": "July 30, 2023 6:53:54 PM",
+      "body": "rehoihilbenoir"
+    }
+  ]
+}
